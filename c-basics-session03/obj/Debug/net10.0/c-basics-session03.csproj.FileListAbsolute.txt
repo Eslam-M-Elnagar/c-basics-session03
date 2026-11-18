@@ -1,0 +1,16 @@
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.exe
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.deps.json
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.runtimeconfig.json
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.runtimeconfig.dev.json
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.dll
+E:\C# Program\c-basics-session03\c-basics-session03\bin\Debug\net10.0\c-basics-session03.pdb
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.AssemblyInfoInputs.cache
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.AssemblyInfo.cs
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.csproj.CoreCompileInputs.cache
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.dll
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\refint\c-basics-session03.dll
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.pdb
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics-session03.genruntimeconfig.cache
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\ref\c-basics-session03.dll
+E:\C# Program\c-basics-session03\c-basics-session03\obj\Debug\net10.0\c-basics.367877D3.Up2Date
